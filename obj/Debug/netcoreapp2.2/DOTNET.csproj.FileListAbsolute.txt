@@ -1,0 +1,11 @@
+/workspaces/DOTNET/bin/Debug/netcoreapp2.2/DOTNET.deps.json
+/workspaces/DOTNET/bin/Debug/netcoreapp2.2/DOTNET.runtimeconfig.json
+/workspaces/DOTNET/bin/Debug/netcoreapp2.2/DOTNET.runtimeconfig.dev.json
+/workspaces/DOTNET/bin/Debug/netcoreapp2.2/DOTNET.dll
+/workspaces/DOTNET/bin/Debug/netcoreapp2.2/DOTNET.pdb
+/workspaces/DOTNET/obj/Debug/netcoreapp2.2/DOTNET.csprojAssemblyReference.cache
+/workspaces/DOTNET/obj/Debug/netcoreapp2.2/DOTNET.csproj.CoreCompileInputs.cache
+/workspaces/DOTNET/obj/Debug/netcoreapp2.2/DOTNET.AssemblyInfoInputs.cache
+/workspaces/DOTNET/obj/Debug/netcoreapp2.2/DOTNET.AssemblyInfo.cs
+/workspaces/DOTNET/obj/Debug/netcoreapp2.2/DOTNET.dll
+/workspaces/DOTNET/obj/Debug/netcoreapp2.2/DOTNET.pdb
